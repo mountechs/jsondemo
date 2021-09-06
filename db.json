@@ -1,6 +1,29 @@
-
+{
+  "users": [
   {
     "id": "1",
     "firstName": "John",
     "email": "john@gmail.com"
+  },
+  {
+    "id": "2",
+    "firstName": "Apple",
+    "email": "apple@gmail.com"
+  },
+  {
+    "id": "3",
+    "firstName": "Banana",
+    "email": "banana@gmail.com"
+  },
+  {
+    "firstName": "abd",
+    "email": "abd@gmail.com",
+    "id": "CkhfDkR"
+  },
+  {
+    "firstName": "abd",
+    "email": "abd@gmail.com",
+    "id": "o544xHA"
   }
+  ]
+}
